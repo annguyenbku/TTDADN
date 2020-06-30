@@ -1,0 +1,36 @@
+body {
+    background-color: #F8F8F8;
+}
+.link-login {
+    text-decoration: none;
+    border: 1px solid green;
+    border-radius: 5px;
+    color: green;
+    padding: 10px 17px;
+    margin-left: 10px;
+}
+.link-login:hover {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+}
+.main-content {
+    background-color: #F8F8F8;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+.result {
+    width: 100%;
+    height: 250px ;
+    overflow-y: scroll;
+    border: 1px solid #c8c7c9;
+    margin-top: 10px;
+}
+.title {
+    padding: 10px;
+    text-align: center;
+}
+.fa  {
+    margin-right: 3px;
+}
